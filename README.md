@@ -1,5 +1,3 @@
-### Hello 👋
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghals0921)](https://solved.ac/ghals0921/)
 
 <!--
