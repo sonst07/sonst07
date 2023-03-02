@@ -1,4 +1,6 @@
-### 꾸준히 성장하기
+#안녕하세요:)
+
+### 하루하루 최선을 다하는 개발자입니다
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghals0921)](https://solved.ac/ghals0921/)
 
