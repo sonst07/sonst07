@@ -1,6 +1,8 @@
-# 안녕하세요:)
+# SONSTAR😄
 
-### 하루하루 최선을 다하자
+### 축구선수였으면 꼭 빅클럽에 가고싶다
+### 진짜
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghals0921)](https://solved.ac/ghals0921/)
 
