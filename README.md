@@ -1,7 +1,7 @@
 # SonStar😄
 
-### 축구선수였으면 꼭 빅클럽에 가고싶다
-### 진짜
+### 빅클럽
+
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghals0921)](https://solved.ac/ghals0921/)
