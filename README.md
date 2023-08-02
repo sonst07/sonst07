@@ -1,4 +1,4 @@
-# SonStar😄
+# Sonstar
 
 ### 빅클럽
 
